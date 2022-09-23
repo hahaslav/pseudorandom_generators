@@ -3,7 +3,7 @@
 const int A = 9;
 const int X0 = 14;
 const int C = 22;
-const int P = 18329;
+const int P = 18'329;
 const int M = P + 1;
 
 int inverse(int x) {
